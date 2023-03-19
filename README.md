@@ -1,6 +1,7 @@
 # gym-mtsim-stable-baseline3
 # setup
 -- needed python & pip to be installed or just install IDE (e.g. Pycharm) it will automatically install Python interpreter
+- mt5 on your window any broker will do
 # install Jupytenotebook
 <pre><code>pip install jupyter
 </code></pre>
@@ -16,6 +17,8 @@ after clone this project cd into your root of the project
 
 <pre><code>jupyter notebook
 </code></pre>
+
+![plot](./fig1_jupyter.PNG)
 
 ENJoy your code xDD
 
