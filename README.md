@@ -18,7 +18,7 @@ after clone this project cd into your root of the project
 <pre><code>jupyter notebook
 </code></pre>
 
-![plot](./fig1_jupyter.PNG)
+![plot](./fig1_jupyter.png)
 
 ENJoy your code xDD
 
